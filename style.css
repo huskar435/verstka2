@@ -100,13 +100,13 @@ h2 {
     font-size: 25px;
     font-weight: 400;
 }
-.features-fast {
+.features-mon {
     background-color: #FAEA73;
 }
-.features-buck {
+.features-mol {
     background-color: #CCEFF6;
 }
-.features-safe {
+.features-okey {
      background-color: #F7CEDC;
 }
 .care {
@@ -180,31 +180,31 @@ h4 {
 .about-block-item:nth-child(2){
     margin: 0 30px 0 40px;
 }
-.track{
+.lamp{
     background-color: #0070A0;
     padding: 80px 0;
     color: white;
 }
-.track-block{
+.lamp-block{
     display: flex;
     justify-content: space-between;
 }
-.track-block-info{
+.lamp-block-info{
     width: 400px;
 }
-.track-block-info h4{
+.lamp-block-info h4{
     margin: 0 0 20px 0;
 }
-.track-block-list{
+.lamp-block-list{
     padding-left: 25px;
 }
-.track-block-list li{
+.lamp-block-list li{
     list-style-image: url(assets/mark.svg);
 }
-.track-block-list li:nth-child(2){
+.lamp-block-list li:nth-child(2){
     margin: 11px 0;
 }
-.track-block-info button{
+.lamp-block-info button{
     margin-top: 27px;
 }
 .automated-title{
